@@ -36,15 +36,8 @@ var wedge_text_position = .65; // Distance Along Radius
 
 var nameList = [];
 var name_lists = [
-  ['E.Honda', 'Chun Li', 'M.Bison', 'Cammy'],
-  ['Ringo', 'George', 'John', 'Paul'],
-  ['Roy', 'Gee', 'Biv'],
-  ['Tina', 'Chris', 'David', 'Jerry'],
-  ['Like This', 'Like That'],
-  ['Mystery', 'Comedy', 'Action', 'Drama'],
-  ['Charmander', 'Squirtle', 'Bulbasaur'],
-  ['Rock', 'Paper', 'Scissors']
-];
+  ['Tennstopet', 'Nians Pasta', 'Babas', 'Le Báb', 'The Crust'],
+  ];
 
 var blank_message = 'Add some values in the pane.';
 var is_mobile = false;
